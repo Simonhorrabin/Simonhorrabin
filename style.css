@@ -78,6 +78,15 @@ section {
     align-items: center;
 }
 
+.home-img {
+    border: 5px solid transparent;
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    padding: 15px;
+    object-fit: cover;
+
+}
 .home-content h3 {
     font-size: 3.2rem;
     font-weight: 700;
@@ -146,6 +155,8 @@ span {
 
 .about-img {
     width: 35vw;
+    border: 1px solid #1f242d;
+    border-radius: 15px;
 
 }
 .heading {
